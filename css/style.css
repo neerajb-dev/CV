@@ -1,5 +1,5 @@
 body {
-  background-color: #FFEDDB;
+  background-color: #F9E4D4;
 }
 
 .otdh1 {
@@ -16,6 +16,29 @@ body {
   padding-left: 23px;
 }
 
-.itd {
+#itd1, #itd2, #itd3, #itd4, #itd5, #itd6 {
   text-align: left;
 }
+.dp{
+  border-radius: 50%;
+}
+.dp:hover {
+  width: 205px;
+}
+
+/* tr-td */
+
+.itd {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* tr-td */
+
+
+/* icons */
+.icn {
+  width: 20px;
+}
+
+/* icons */
